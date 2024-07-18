@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**ngaurav07/ngaurav07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying Masters in Computer Science
 - 🌱 I’m currently learning Generative AI
 - 👯 I’m looking to collaborate on open source projects
